@@ -1,0 +1,1 @@
+CNAPP Dashboard is a fully functional React web app for visualizing and managing cloud security insights. It features interactive dashboards for CSPM and CWPP, allowing users to add or remove widgets, and provides real-time charts for alerts, risk assessments, and security issues with an intuitive, modern interface
